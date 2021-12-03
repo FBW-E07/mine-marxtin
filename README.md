@@ -1,8 +1,22 @@
 # meaningful
+
+# 🏳️‍🌈 _educational_ browser game: "Die Bauernkriege" about the german peasant wars 1524-1526
+  - 2D point & click text adventure
+  - story-based ++ dungeons/dragons elements(character)
+  - simple character design with ~3 adjustible variables
+      --> variables assigned by dice-roll
+  - 
+
+
+
+
+
+
+
+---
 A personal project makes your world a better place
 
 ---
-
 Edit this **README.md** file. Write an outline of a project that you would be proud to work on. 
 
 Use the **Wiki** (see the Wiki link in the navigation bar above) to create detailed specifications.
@@ -17,4 +31,4 @@ Change the **name of the repository** so that it reflects your purpose.
 
 **Share the link** with your friends, your family, your fellow students. Talk about your ideas, your hopes, your successes.
 
-Enjoy taking on a challenge that seems too big in the beginning, and gradually becomes realistic as your skills improve : )
+Enjoy taking on a challenge that seems too big in the beginning, and gradually becomes realistic as your skills improve : 
