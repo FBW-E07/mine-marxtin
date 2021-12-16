@@ -4,6 +4,11 @@
 # space-invaders-clone
   - html + nice css + js
 
+# crystal castles X q-bert clone
+
+# tetris clone
+
+# online 2-player uno-clone
 
 
 # 🏳️‍🌈 _educational_ browser game: _working title bauernkriege_ about the german peasant wars 1524-1526
@@ -19,6 +24,9 @@
     - +++strength means character becomes normal warrior
     - +++luck ensures player survives til end
   - game areas with clickable objects/NPCs reveal story paths
+
+
+# "Paradise" - a blog on political theory  
  
 
 
