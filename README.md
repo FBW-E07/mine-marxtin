@@ -11,26 +11,6 @@
 # online 2-player uno-clone
 
 
-# 🏳️‍🌈 _educational_ browser game: _working title bauernkriege_ about the german peasant wars 1524-1526
-  - 2D point & click text adventure
-  - story-based ++ dungeons/dragons elements(character)
-  - simple character design with ~3 adjustible variables
-          1. charisma
-          2. strength
-          3. luck
-      --> variables assigned by dice-rolls 
-        --> character parameters lead to three paths
-    - +++charisma makes player a leader
-    - +++strength means character becomes normal warrior
-    - +++luck ensures player survives til end
-  - game areas with clickable objects/NPCs reveal story paths
-
-
-# "Paradise" - a blog on political theory  
- 
-
-
-
 
 
 
